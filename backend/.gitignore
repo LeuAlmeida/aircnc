@@ -2,5 +2,7 @@
 node_modules/
 
 # Ignora as imagens
-*.jpg
 *.png
+*.gif
+*.jpeg
+*.jpg
