@@ -1,2 +1,6 @@
 # Ignora as dependências do Node
 node_modules/
+
+# Ignora as imagens
+*.jpg
+*.png
