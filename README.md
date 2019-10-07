@@ -3,7 +3,7 @@
 </p>
 
 
-# AirCnC | Code & Coffee<br/>
+# AirCnC | Code & Coffee <br/>
 ### This is a study project only and has no involvement with the Airbnb brand.
 
-_More informations in coming._
+_More informations in coming :coffee: ._
