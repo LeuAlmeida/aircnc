@@ -6,4 +6,6 @@
 # AirCnC | Code & Coffee <br/>
 ### This is a study project only and has no involvement with the Airbnb brand.
 
-_More informations in coming :coffee: ._
+More informations in coming :coffee: .
+
+_Using Expo, the API port changes like https://lifehacker.com/how-to-find-your-local-and-external-ip-address-5833108_
