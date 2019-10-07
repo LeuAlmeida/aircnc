@@ -1,6 +1,9 @@
 # Ignora as dependências do Node
 node_modules/
 
+# Ignora as alterações realizadas no Server.js por questões de segurança
+src/server.js
+
 # Ignora as imagens
 # *.png
 # *.gif
