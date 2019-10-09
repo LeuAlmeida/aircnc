@@ -1,14 +1,11 @@
 # Screenshots
 
 ## Company View
-#### Login Page
-<img src="screenshots/frontend/1.png" width="600px" />
+<img src="screenshots/frontend/1.png" width="33.33%" />
 
-#### Coworking Spots Page View
-<img src="screenshots/frontend/2.png" width="600px" />
+<img src="screenshots/frontend/2.png" width="33.33%" />
 
-#### Coworking Spots Create Page
-<img src="screenshots/frontend/3.png" width="600px" />
+<img src="screenshots/frontend/3.png" width="33.33%" />
 
 ## User View
 #### Login Page
