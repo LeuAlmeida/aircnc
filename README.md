@@ -17,13 +17,6 @@
 
 :computer: <a href="SCREENSHOTS.md">Click here to see the screenshots project</a>
 
-# Getting started
-
-First clone this project (or fork this to make your own changes).
-
-Go to the project<br/>
-`$ cd aircnc`
-
 <hr />
 
 ### Getting started - Backend
@@ -37,16 +30,13 @@ After create and init the cluster, change the database config in <b>backend/src/
 
 <hr />
 
-### :wrench: Getting started the backend 
-<img src="screenshots/getting-started/backend.png" />
-
 ### :computer: Getting started the frontend 
 <img src="screenshots/getting-started/frontend.png" />
 
+<hr />
+
 ### :iphone: Getting started the mobile 
 <img src="screenshots/getting-started/mobile.png" />
-
-
 
 <hr/>
 
