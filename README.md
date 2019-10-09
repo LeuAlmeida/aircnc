@@ -1,8 +1,8 @@
 <p align="center">
 <img src="mobile/src/assets/logo@2x.png" />
+</p>
 
 # AirCnC | Code & Coffee <br/>
-</p>
 
 ### This is a study project only and has no involvement with the Airbnb brand. :books:
 
@@ -42,13 +42,10 @@ After create and init the cluster, change the database config in <b>backend/src/
 ### :iphone: Getting started the mobile 
 <img src="screenshots/getting-started/mobile.png" />
 
-:heavy_exclamation_mark: The backend will start on 19002 port and the Expo client on <b>exp://YourLocalIP:19000</b> or Tunnel.<br/>
-<a href="https://docs.expo.io/versions/latest/workflow/how-expo-works/">Learn about how expo works here.</a>
+:heavy_exclamation_mark: The backend will start on 19002 port and the Expo client on <b>exp://YourLocalIP:19000</b> or Tunnel.
+
+:newspaper: <a href="https://docs.expo.io/versions/latest/workflow/how-expo-works/">Learn about how expo works here.</a>
 
 <hr/>
 
-<p align="center">
-
 ### <a href="http://linkedin.com/in/leonardoalmeida99">Connect me in LinkedIn</a> | <a href="http://behance.net/almeida99">See my Behance</a> | <a href="https://leunardo.dev">Click here to go to my CV</a>
-
-</p>
