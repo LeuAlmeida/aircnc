@@ -1,2 +1,5 @@
-
+# Ignore all server.js changes
 backend/src/server.js
+
+# Ignore all dot psd files
+*.psd
