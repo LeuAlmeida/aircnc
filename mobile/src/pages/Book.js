@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { SafeAreaView, Alert, StyleSheet, TextInput, TouchableOpacity, AsyncStorage ,Text } from 'react-native';
+import { SafeAreaView, Alert, StyleSheet, TouchableOpacity, AsyncStorage ,Text } from 'react-native';
+import DatePicker from 'react-native-datepicker'
 
 import api from '../services/api';
 
@@ -29,14 +30,21 @@ export default function Book({ navigation }) {
 
         <SafeAreaView style={styles.container}>
             <Text style={styles.label}>DATA DE INTERESSE *</Text>
-        <TextInput
-            style={styles.input}
-            placeholder="Qual data você quer reservar?"
-            placeholderTextColor="#999"
-            autoCapitalize="words"
-            autoCorrect={false}
-            value={date}
-            onChangeText={setDate}
+
+        
+        <DatePicker
+        style={styles.datePicker}
+        date={date}
+        mode="datetime"
+        placeholder="Qual data você quer reservar?"
+        format={`DD-MM-YYYY (h:mm)`}
+        locale="pt_BR"
+        minDate="2019-09-10"
+        maxDate="2021-01-01"
+        confirmBtnText="Confirmar"
+        cancelBtnText="Cancelar"
+        showIcon={false}
+        onDateChange={setDate}
         />
 
         <TouchableOpacity onPress={handleSubmit} style={styles.button}>
@@ -64,15 +72,12 @@ label: {
     marginTop: 30,
 },
 
-input: {
-    borderWidth: 1,
+datePicker: {
     borderColor: '#ddd',
-    paddingHorizontal: 20,
-    fontSize: 16,
-    color: '#444',
-    height: 44,
+    width: '100%',
     marginBottom: 20,
-    borderRadius: 2
+    borderRadius: 2,
+    borderWidth: 1
 }, 
 
 button: {
