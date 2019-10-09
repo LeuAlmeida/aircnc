@@ -15,7 +15,7 @@
 - Expo >= 3.1.2
 - NPM >= 6.9.0
 
-:computer: <a href="SCREENSHOTS.md">Click here to see the screenshots project</a>
+:camera: <a href="SCREENSHOTS.md">Click here to see the screenshots project</a>
 
 <hr />
 
