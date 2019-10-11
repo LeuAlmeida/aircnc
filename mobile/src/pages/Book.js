@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { SafeAreaView, Alert, StyleSheet, TouchableOpacity, AsyncStorage ,Text } from 'react-native';
+import { SafeAreaView, Alert, StyleSheet, TouchableOpacity, AsyncStorage, Text } from 'react-native';
 import DatePicker from 'react-native-datepicker'
 
 import api from '../services/api';
