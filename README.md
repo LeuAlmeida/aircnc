@@ -8,14 +8,14 @@
 
 <img src="presentation.png" />
 
-## :electric_plug: Requeriments
+### :electric_plug: Requeriments
 
 - Node.JS >= 10.16.2
 - Yarn >= 1.17.3
 - Expo >= 3.1.2
 - NPM >= 6.9.0
 
-## :camera: <a href="SCREENSHOTS.md">Click here to see the project screenshots</a>
+### :camera: <a href="SCREENSHOTS.md">Click here to see the project screenshots</a>
 
 <hr />
 
