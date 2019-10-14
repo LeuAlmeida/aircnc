@@ -16,7 +16,7 @@
 #### Coworking Spots Page View
 <img src="screenshots/mobile/2.png" width="300px" />
 
-#### Coworking Spots Create Page
+#### Coworking Booking Schedule Page
 <img src="screenshots/mobile/3.png" width="300px" />
 
 </p>
